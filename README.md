@@ -1,4 +1,4 @@
-👋 Hi, I’m C <br>
+👋 Hi, I’m Chelsey <br>
 👀 I’m interested in web developing <br>
 🌱 Currently learning full-stack web developing in react.js, node.js
 <br>
