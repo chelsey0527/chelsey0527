@@ -1,4 +1,4 @@
-👋 Hi, I’m @chelsey0527 <br>
+👋 Hi, I’m C <br>
 👀 I’m interested in web developing <br>
 🌱 Currently learning full-stack web developing in react.js, node.js
 <br>
