@@ -1,6 +1,6 @@
 👋 Hi, I’m Chin-shan (Chelsey) Lee <br>
 👀 I’m interested in web developing <br>
-🌱 Currently learning full-stack web developing in react.js, node.js
+🌱 React.js
 <br>
 <br>
 How to reach me ? <br>
