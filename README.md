@@ -1,6 +1,6 @@
 👋 Hi, I’m Chin-shan (Chelsey) Lee <br>
 👀 I’m interested in web developing <br>
-🌱 React.js
+🌱 Specialized in React.js and UI/UX design
 <br>
 <br>
 How to reach me ? <br>
