@@ -6,8 +6,9 @@ How to reach me ? <br>
 📩 G-mail: chelsey0527@gmail.com <br>
 💼 LinkedIn: https://www.linkedin.com/in/chinshanlee/ <br>
 🌟 Portfolio website: https://chelsey-chelsey0527.vercel.app/
-                       
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=chelsey0527&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelsey0527&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=chelsey0527" alt="stats graph" width="45%" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&username=chelsey0527" 
+   width="35%" alt="languages graph" align="right"  />
+</div>
