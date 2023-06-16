@@ -3,7 +3,6 @@
 <br>
 <br>
 How to reach me ? <br>
-📩 G-mail: chelsey0527@gmail.com <br>
 💼 LinkedIn: https://www.linkedin.com/in/chinshanlee/ <br>
 🌟 Portfolio website: https://chelsey-chelsey0527.vercel.app/
 
