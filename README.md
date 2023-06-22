@@ -1,5 +1,5 @@
 👋 Hi, I’m Chin-shan (Chelsey) Lee <br>
-👀 I’m interested in web engineering and specialized in React.js
+👀 I’m interested in React.js
 <br>
 <br>
 How to reach me ? <br>
