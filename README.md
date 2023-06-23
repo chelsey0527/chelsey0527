@@ -1,5 +1,5 @@
-👋 Hi, I’m Chin-shan (Chelsey) Lee <br>
-👀 I’m interested in React.js
+👋 Hi, I’m Chin-shan (Chelsey) Lee, a Full stack developer at TCFC and an incoming student of UW MSTI. <br>
+👀 I’m specialized in React.js
 <br>
 <br>
 How to reach me ? <br>
