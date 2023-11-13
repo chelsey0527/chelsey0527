@@ -1,5 +1,5 @@
-👋 Hi, I’m Chin-shan (Chelsey) Lee, a student at UW MSTI. <br>
-👀 I’m specialized in React.js
+👋 Hi, I’m Chelsey Lee, grad student at UW MSTI. <br>
+👀 Specialized in React.js
 <br>
 <br>
 How to reach me ? <br>
