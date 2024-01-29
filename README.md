@@ -1,8 +1,4 @@
 👋 Hi, I’m Chelsey Lee, grad student at UW MSTI. <br>
-👀 Specialized in React.js
-<br>
-<br>
-How to reach me ? <br>
 💼 LinkedIn: https://www.linkedin.com/in/chinshanlee/ <br>
 🌟 Portfolio website: https://chelsey-chelsey0527.vercel.app/
 
